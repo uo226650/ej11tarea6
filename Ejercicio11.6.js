@@ -1,4 +1,7 @@
 // Tarea 6: Aplicación de temática libre en JavaScript usando el API de Google Maps
+
+// TAW y WAVE dan problemas de accesibilidad debido a la naturaleza de los mapas dinámicos de google
+
 /**
  * Esta aplicación ofrece servicio de meteorología localizado a través de un mapa.
  * El usuario puebe consultar los datos meteorológicos de un determinado
