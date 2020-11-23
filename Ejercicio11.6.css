@@ -4,6 +4,7 @@
     height: 100%;
     width: 50%;
     margin-left: 3em;
+    border: thin solid #333;
   }
 
   p{
