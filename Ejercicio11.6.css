@@ -14,7 +14,7 @@
   body{
     display: flex;
     justify-content: space-evenly;
-    /*font-size: 18pt;*/
+    font-size: 18pt;
   }
 
   .cabecera{
@@ -31,5 +31,4 @@
     margin-left: 1em;
     padding: 0;
     background-color: rgb(236, 246, 213);
-    /*background-color: rgb(246, 248, 241);*/
   }
